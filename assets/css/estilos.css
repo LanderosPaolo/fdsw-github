@@ -2,9 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Hola Mundo */
 
-#Hero-Section {
+#Hola-mundo {
   /* background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,9 +12,9 @@ body {
   background-color: #686a6b;
 }
 
-/* Mis trabajos */
+/* Mis pasatiempos */
 
-#Mis-trabajos .image-top {
+#pasatiempos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
